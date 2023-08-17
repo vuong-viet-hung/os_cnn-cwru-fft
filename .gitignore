@@ -163,3 +163,4 @@ cython_debug/
 CWRU-dataset-main.zip
 CWRU-dataset-main/
 fourier_coeffs/
+dataset/
