@@ -1,16 +1,20 @@
 {
-    "CWRU-dataset-main/Normal": 0,
-    "CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/IR/007": 1,
-    "CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/IR/014": 2,
-    "CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/IR/021": 3,
-    "CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/B/007": 4,
-    "CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/B/014": 5,
-    "CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/B/021": 6,
-    "CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/OR/007/@3": 7,
-    "CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/OR/007/@6": 7,
-    "CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/OR/007/@12": 7,
-    "CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/OR/014": 8,
-    "CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/OR/021/@3": 9,
-    "CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/OR/021/@6": 9,
-    "CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/OR/021/@12": 9
+    "0": ["CWRU-dataset-main/Normal"],
+    "1": ["CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/IR/007"],
+    "2": ["CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/IR/014"],
+    "3": ["CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/IR/021"],
+    "4": ["CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/B/007"],
+    "5": ["CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/B/014"],
+    "6": ["CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/B/021"],
+    "7": [
+        "CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/OR/007/@3", 
+        "CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/OR/007/@6",
+        "CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/OR/007/@12"
+    ],
+    "8": ["CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/OR/014"],
+    "9": [
+        "CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/OR/021/@3",
+        "CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/OR/021/@6",
+        "CWRU-dataset-main/12k_Drive_End_Bearing_Fault_Data/OR/021/@12"
+    ]
 }
